@@ -1,160 +1,205 @@
+
 <div align="center">
 
-# SOUMYA K.
+# SOUMYA KUMAR
 
-### I build things that make ideas feel real.
+### `INITIATING PERSONAL PROFILE...`
 
-**Computer Science · Full-Stack Development · Applied AI**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=7CFFB2&center=true&vCenter=true&width=650&lines=Hello%2C+internet.+I'm+Soumya.;Full+Stack+Developer+in+progress...;AI+%7C+Cybersecurity+%7C+Creative+Tech;sudo+make+something+awesome" />
 
-*Part engineer. Part designer. Always curious.*
-
-[PROJECTS](#selected-work) · [TOOLKIT](#the-toolkit) · [BEYOND-CODE](#beyond-the-code) · [CONNECT](#find-me-around)
+`[ SYSTEM ONLINE ]` ` [ CURIOUS BY DEFAULT ]` ` [ BUILD MODE: ON ]`
 
 </div>
 
 ---
 
-<details open>
-<summary><strong>A little introduction — the human behind the commits</strong></summary>
+<table>
+<tr>
+<td width="43%" valign="top">
 
-Hey! I'm a Computer Science and Engineering student who likes being involved in the whole journey: finding a problem, shaping the experience, building the system, and making the details feel right.
+```text
+       /\_/\
+      ( o.o )
+       > ^ <
+     ___________
+    /           \
+   /  CODE CAT   \
+  /_______________\
 
-I'm especially drawn to the space where **software engineering, applied AI, cybersecurity, and thoughtful design** meet.
+   /\_/\
+  ( •.• )  < hello!
+  / >💻
+```
 
-I don't want to just make another app that works. I want to understand *why* it should exist — and make it genuinely useful.
+</td>
+<td width="57%" valign="top">
 
-</details>
+```yaml
+user: Soumya K
+alias: sou_mya
+role: CSE Student
 
-## A quick map
+system:
+  focus:
+    - Full Stack Development
+    - Artificial Intelligence
+    - Cybersecurity
+    - UI/UX Engineering
 
-| If you're here for... | Start here |
-|---|---|
-| Serious engineering | [CONVERA](#01--convera) |
-| AI + security | [NEXORA](#02--nexora) |
-| Full-stack systems | [NETWATCH](#03--netwatch) |
-| Product thinking | [RESUMATCH AI](#04--resumatch-ai) |
-| The person, not just the code | [Beyond the code](#beyond-the-code) |
+environment:
+  editor: VS Code
+  design: Figma
+  operating_mode: Creative
 
----
+status: Building something...
+```
 
-## Selected Work
+</td>
+</tr>
+</table>
 
-*Four projects. Four different problems. One common theme: build with purpose.*
+## `01 / WHOAMI`
 
-### 01 / CONVERA
+```bash
+$ whoami
 
-**Institution Complaint Monitoring & Cross-Bureau Intelligence Dashboard**
+A developer who likes building things
+that solve actual problems.
 
-A platform designed to help institutions monitor complaints, identify potential overlaps, track urgency, and coordinate case activity.
+I enjoy the intersection of technology,
+design and intelligent systems.
+
+I can go from sketching an interface
+to building its backend.
+
+Current state: LEARNING. BUILDING. REPEATING.
+```
+
+## `02 / EXECUTABLE PROJECTS`
+
+```text
+╭──────────────────────────────────────────────╮
+│                 PROJECT INDEX                │
+├──────────────────────────────────────────────┤
+│ [01] CONVERA      :: Complaint Intelligence  │
+│ [02] NEXORA       :: Voice Security          │
+│ [03] NETWATCH     :: Network Monitoring      │
+│ [04] RESUMATCH AI :: Resume Intelligence     │
+╰──────────────────────────────────────────────╯
+```
+
+### `01. CONVERA.exe`
+
+**Institution Complaint Monitoring & Cross-Bureau Intelligence**
+
+An integrated dashboard for complaint tracking, urgency analysis, overlap detection and case management.
 
 `React` `TypeScript` `Supabase` `PostgreSQL`
 
-<details>
-<summary>Open the project notes ↗</summary>
+[↗ ACCESS REPOSITORY](https://github.com/kusoumya2006-netizen/CONVERA-)
 
-- **The problem:** Complaint information can become fragmented across departments, making patterns and urgency harder to spot.
-- **The approach:** Bring case monitoring, urgency indicators, overlap detection, and auditability into one dashboard.
-- **What I focused on:** Frontend experience, application workflows, and the underlying data-driven logic.
-
-[Explore CONVERA on GitHub →](https://github.com/kusoumya2006-netizen/CONVERA-)
-
-</details>
-
-### 02 / NEXORA
+### `02. NEXORA.exe`
 
 **AI-Powered Voice Impersonation Defence**
 
-Exploring how voice analysis, speaker verification, and contextual conversation signals can work together to identify suspicious impersonation attempts.
+Combining voice analysis, speaker verification and contextual conversation risk assessment.
 
-`Python` `FastAPI` `React` `Machine Learning`
+`Python` `FastAPI` `AI` `Risk Analysis`
 
-<details>
-<summary>Open the project notes ↗</summary>
+[↗ ACCESS REPOSITORY](https://github.com/kusoumya2006-netizen/NEXORA-AI-)
 
-- **The challenge:** A convincing voice is not necessarily a trustworthy one.
-- **The approach:** Combine voice-related signals with speaker and conversation context for risk-based assessment.
-- **What I focused on:** Conversation analysis, contextual detection rules, and risk scoring.
+### `03. NETWATCH.exe`
 
-[Explore NEXORA on GitHub →](https://github.com/kusoumya2006-netizen/NEXORA-AI-)
+**Full-Stack Network Monitoring**
 
-</details>
-
-### 03 / NETWATCH
-
-**Full-Stack Network Monitoring Platform**
-
-A monitoring dashboard for device management, network topology, traffic analytics, latency tracking, and network health insights.
+Device management, network topology, traffic analytics and latency monitoring.
 
 `React` `TypeScript` `Node.js` `MongoDB`
 
-<details>
-<summary>Open the project notes ↗</summary>
+[↗ REPOSITORY](https://github.com/kusoumya2006-netizen/netwatch_new)
 
-- **The idea:** Make network activity easier to understand through a single monitoring experience.
-- **The build:** A full-stack application connecting an interactive frontend with backend services and persistent data.
+[↗ LIVE DEMO](https://netwatch-nexus.vercel.app)
 
-[Repository →](https://github.com/kusoumya2006-netizen/netwatch_new) · [Try the live application →](https://netwatch-nexus.vercel.app)
-
-</details>
-
-### 04 / RESUMATCH AI
+### `04. RESUMATCH.exe`
 
 **Smart ATS Resume Analyzer**
 
-A resume analysis application that compares a resume with a job description and surfaces ATS-oriented insights.
+Resume-to-job-description comparison with ATS-oriented insights.
 
 `React` `Vite` `JavaScript`
 
-<details>
-<summary>Open the project notes ↗</summary>
+[↗ REPOSITORY](https://github.com/kusoumya2006-netizen/ResuMatchAI)
 
-- **The idea:** Help applicants understand how their resume aligns with a role.
-- **The experience:** Turn resume and job-description inputs into clear, actionable feedback.
-
-[Repository →](https://github.com/kusoumya2006-netizen/ResuMatchAI) · [Try the live application →](https://resu-match-ai-delta.vercel.app)
-
-</details>
+[↗ LIVE DEMO](https://resu-match-ai-delta.vercel.app)
 
 ---
 
-## The Toolkit
-
-| I work with | Technologies |
-|---|---|
-| **Languages** | Python · Java · C · C++ · JavaScript · TypeScript · SQL |
-| **Frontend** | React · HTML · CSS · Tailwind CSS · Vite |
-| **Backend** | FastAPI · Node.js · Express.js |
-| **Data & Storage** | PostgreSQL · Supabase · MongoDB · MySQL |
-| **AI & Data Science** | NumPy · Pandas · scikit-learn |
-| **Design & Workflow** | Figma · Git · GitHub |
-
-## Currently in my tabs
-
-- Exploring applied AI and intelligent software systems.
-- Getting better at building secure, reliable full-stack products.
-- Thinking about how design decisions change the way people use technology.
-- Learning by shipping projects, breaking things, and fixing them.
-
-## Beyond the code
-
-A few things that keep the creative side switched on:
-
-- **Photography** — noticing the details most people walk past.
-- **UI/UX design** — making useful things feel intuitive.
-- **Writing** — turning complicated thoughts into clear stories.
-
-I like the technical details, but I care just as much about how something feels to use.
-
----
-
-## Find me around
-
-[GitHub](https://github.com/kusoumya2006-netizen)
+## `03 / INSTALLED PACKAGES`
 
 <div align="center">
 
-*Still learning. Still building. Definitely not done.*
-
-**Thanks for stopping by. Have a look around.**
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,html,css,tailwind,nodejs,fastapi,mongodb,mysql,postgres,supabase,git,github,figma,vscode&perline=10" />
 
 </div>
+
+## `04 / BACKGROUND PROCESSES`
+
+```text
+[RUNNING]
+
+> Exploring applied AI
+> Learning cybersecurity
+> Building full-stack applications
+> Experimenting with UI/UX
+> Collecting photographs
+> Writing down random ideas
+
+[WARNING]
+
+Too many browser tabs detected.
+Curiosity process cannot be terminated.
+```
+
+## `05 / OUTSIDE_THE_TERMINAL`
+
+```python
+interests = {
+    "design": "Making interfaces feel intuitive",
+    "writing": "Turning thoughts into words",
+    "technology": "Always exploring something new"
+}
+
+print("There is more to me than just code.")
+```
+
+## `06 / ESTABLISH_CONNECTION`
+
+<div align="center">
+
+<a href="https://github.com/kusoumya2006-netizen">
+<img src="https://img.shields.io/badge/GitHub-Visit%20my%20repositories-7CFFB2?style=for-the-badge&logo=github&logoColor=101820"/>
+</a>
+
+<br/><br/>
+
+```text
+╭──────────────────────────────────────╮
+│                                      │
+│  CONNECTION ESTABLISHED.              │
+│                                      │
+│  Thanks for visiting my little       │
+│  corner of the internet.             │
+│                                      │
+│  > Stay curious.                     │
+│  > Keep experimenting.               │
+│  > Build something unexpected.       │
+│                                      │
+╰──────────────────────────────────────╯
+```
+
+`END OF TRANSMISSION // SOUMYA 2026`
+
+</div>
+
+
+
