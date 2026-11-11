@@ -1,99 +1,160 @@
- <div align="center">
+<div align="center">
 
 # SOUMYA K.
 
-### Computer Science · Full-Stack Development · Applied AI
+### I build things that make ideas feel real.
 
-*Building ideas into working products.*
+**Computer Science · Full-Stack Development · Applied AI**
 
-India · Open to learning, building and collaborating
+*Part engineer. Part designer. Always curious.*
 
-[GitHub](https://github.com/kusoumya2006-netizen)
+[PROJECTS](#selected-work) · [TOOLKIT](#the-toolkit) · [BEYOND-CODE](#beyond-the-code) · [CONNECT](#find-me-around)
 
 </div>
 
 ---
 
-## About
+<details open>
+<summary><strong>A little introduction — the human behind the commits</strong></summary>
 
-I'm a Computer Science and Engineering student interested in the intersection of software engineering, applied AI, cybersecurity, and product design.
+Hey! I'm a Computer Science and Engineering student who likes being involved in the whole journey: finding a problem, shaping the experience, building the system, and making the details feel right.
 
-I enjoy turning ideas into functional applications — from designing interfaces and engineering backend systems to developing intelligent features that solve practical problems.
+I'm especially drawn to the space where **software engineering, applied AI, cybersecurity, and thoughtful design** meet.
 
-My approach is simple: understand the problem, build thoughtfully, and keep improving.
+I don't want to just make another app that works. I want to understand *why* it should exist — and make it genuinely useful.
+
+</details>
+
+## A quick map
+
+| If you're here for... | Start here |
+|---|---|
+| Serious engineering | [CONVERA](#01--convera) |
+| AI + security | [NEXORA](#02--nexora) |
+| Full-stack systems | [NETWATCH](#03--netwatch) |
+| Product thinking | [RESUMATCH AI](#04--resumatch-ai) |
+| The person, not just the code | [Beyond the code](#beyond-the-code) |
 
 ---
 
 ## Selected Work
 
-### 01 — CONVERA
+*Four projects. Four different problems. One common theme: build with purpose.*
+
+### 01 / CONVERA
 
 **Institution Complaint Monitoring & Cross-Bureau Intelligence Dashboard**
 
-A platform designed to help monitor institutional complaints, identify potential overlaps, track urgency, and coordinate case activity.
+A platform designed to help institutions monitor complaints, identify potential overlaps, track urgency, and coordinate case activity.
 
 `React` `TypeScript` `Supabase` `PostgreSQL`
 
-[Explore repository →](https://github.com/kusoumya2006-netizen/CONVERA-)
+<details>
+<summary>Open the project notes ↗</summary>
 
-### 02 — NEXORA
+- **The problem:** Complaint information can become fragmented across departments, making patterns and urgency harder to spot.
+- **The approach:** Bring case monitoring, urgency indicators, overlap detection, and auditability into one dashboard.
+- **What I focused on:** Frontend experience, application workflows, and the underlying data-driven logic.
+
+[Explore CONVERA on GitHub →](https://github.com/kusoumya2006-netizen/CONVERA-)
+
+</details>
+
+### 02 / NEXORA
 
 **AI-Powered Voice Impersonation Defence**
 
-A voice security platform combining voice authenticity analysis, speaker verification, conversation intelligence, and risk-based decision support.
+Exploring how voice analysis, speaker verification, and contextual conversation signals can work together to identify suspicious impersonation attempts.
 
 `Python` `FastAPI` `React` `Machine Learning`
 
-[Explore repository →](https://github.com/kusoumya2006-netizen/NEXORA-AI-)
+<details>
+<summary>Open the project notes ↗</summary>
 
-### 03 — NETWATCH
+- **The challenge:** A convincing voice is not necessarily a trustworthy one.
+- **The approach:** Combine voice-related signals with speaker and conversation context for risk-based assessment.
+- **What I focused on:** Conversation analysis, contextual detection rules, and risk scoring.
+
+[Explore NEXORA on GitHub →](https://github.com/kusoumya2006-netizen/NEXORA-AI-)
+
+</details>
+
+### 03 / NETWATCH
 
 **Full-Stack Network Monitoring Platform**
 
-A network monitoring dashboard featuring device management, topology visualization, traffic analytics, latency tracking, and network health insights.
+A monitoring dashboard for device management, network topology, traffic analytics, latency tracking, and network health insights.
 
 `React` `TypeScript` `Node.js` `MongoDB`
 
-[Repository](https://github.com/kusoumya2006-netizen/netwatch_new) · [Live application](https://netwatch-nexus.vercel.app)
+<details>
+<summary>Open the project notes ↗</summary>
 
-### 04 — RESUMATCH AI
+- **The idea:** Make network activity easier to understand through a single monitoring experience.
+- **The build:** A full-stack application connecting an interactive frontend with backend services and persistent data.
+
+[Repository →](https://github.com/kusoumya2006-netizen/netwatch_new) · [Try the live application →](https://netwatch-nexus.vercel.app)
+
+</details>
+
+### 04 / RESUMATCH AI
 
 **Smart ATS Resume Analyzer**
 
-A resume analysis application that compares candidate resumes against job descriptions and provides ATS-oriented insights and keyword analysis.
+A resume analysis application that compares a resume with a job description and surfaces ATS-oriented insights.
 
-`React` `Vite` `JavaScript` `Framer Motion`
+`React` `Vite` `JavaScript`
 
-[Repository](https://github.com/kusoumya2006-netizen/ResuMatchAI) · [Live application](https://resu-match-ai-delta.vercel.app)
+<details>
+<summary>Open the project notes ↗</summary>
+
+- **The idea:** Help applicants understand how their resume aligns with a role.
+- **The experience:** Turn resume and job-description inputs into clear, actionable feedback.
+
+[Repository →](https://github.com/kusoumya2006-netizen/ResuMatchAI) · [Try the live application →](https://resu-match-ai-delta.vercel.app)
+
+</details>
 
 ---
 
-## Technical Toolkit
+## The Toolkit
 
-| Area | Technologies |
+| I work with | Technologies |
 |---|---|
-| Languages | Python, Java, C, C++, JavaScript, TypeScript, SQL |
-| Frontend | React, HTML, CSS, Tailwind CSS, Vite |
-| Backend | FastAPI, Node.js, Express.js |
-| Databases | PostgreSQL, Supabase, MongoDB, MySQL |
-| AI & Data | NumPy, Pandas, scikit-learn |
-| Tools | Git, GitHub, Figma |
+| **Languages** | Python · Java · C · C++ · JavaScript · TypeScript · SQL |
+| **Frontend** | React · HTML · CSS · Tailwind CSS · Vite |
+| **Backend** | FastAPI · Node.js · Express.js |
+| **Data & Storage** | PostgreSQL · Supabase · MongoDB · MySQL |
+| **AI & Data Science** | NumPy · Pandas · scikit-learn |
+| **Design & Workflow** | Figma · Git · GitHub |
+
+## Currently in my tabs
+
+- Exploring applied AI and intelligent software systems.
+- Getting better at building secure, reliable full-stack products.
+- Thinking about how design decisions change the way people use technology.
+- Learning by shipping projects, breaking things, and fixing them.
+
+## Beyond the code
+
+A few things that keep the creative side switched on:
+
+- **Photography** — noticing the details most people walk past.
+- **UI/UX design** — making useful things feel intuitive.
+- **Writing** — turning complicated thoughts into clear stories.
+
+I like the technical details, but I care just as much about how something feels to use.
 
 ---
 
-## Currently Exploring
+## Find me around
 
-- Applied AI and intelligent software systems
-- Full-stack product engineering
-- Cybersecurity and threat detection
-- Interface design and product experiences
-
----
+[GitHub](https://github.com/kusoumya2006-netizen)
 
 <div align="center">
 
-*Curious by nature. Building by choice.*
+*Still learning. Still building. Definitely not done.*
 
-**Let's make useful things.**
+**Thanks for stopping by. Have a look around.**
 
 </div>
