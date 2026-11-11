@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17151F"/><stop offset=".55" stop-color="#27203A"/><stop offset="1" stop-color="#101B22"/></linearGradient>
+  <linearGradient id="type" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF784F"/><stop offset=".5" stop-color="#FFD166"/><stop offset="1" stop-color="#A8F06A"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1000" cy="100" r="112" fill="none" stroke="#A8F06A" stroke-width="1.5" opacity=".5">
+ <animateTransform attributeName="transform" type="rotate" from="0 1000 100" to="360 1000 100" dur="24s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1000" cy="100" r="78" fill="none" stroke="#FF784F" stroke-width="2" stroke-dasharray="8 14" opacity=".85">
+ <animateTransform attributeName="transform" type="rotate" from="360 1000 100" to="0 1000 100" dur="12s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1000" cy="100" r="12" fill="#FFD166" filter="url(#glow)">
+ <animate attributeName="r" values="9;15;9" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1090" cy="170" r="8" fill="#FF784F"><animate attributeName="cy" values="170;154;170" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="26" r="6" fill="#A8F06A"><animate attributeName="cx" values="900;920;900" dur="4s" repeatCount="indefinite"/></circle>
+<path d="M0 290 Q220 210 420 300 T820 270 T1200 290" fill="none" stroke="#A8F06A" stroke-width="2" opacity=".22"/>
+<text x="76" y="76" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5" fill="#A8F06A">SOUMYA K.  /  CREATIVE ENGINEERING</text>
+<text x="72" y="184" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-3" fill="url(#type)">IDEAS IN MOTION.</text>
+<text x="78" y="235" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#F4F0EA">I design, build, break things, and make them better.</text>
+<text x="78" y="305" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3" fill="#B9B1C9">FULL-STACK  ·  APPLIED AI  ·  SECURITY  ·  DESIGN</text>
+<rect x="72" y="258" width="84" height="4" rx="2" fill="#FF784F"><animate attributeName="width" values="84;180;84" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
